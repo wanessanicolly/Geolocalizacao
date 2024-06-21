@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "nome": "Dra. Ana Oliveira",
+    "latitude": -8.122352,
+    "longitude": -34.900973,
+    "especialidade": "Ansiedade e Depressão",
+    "endereco": "Av. Conde da Boa Vista, 123 - Boa Vista, Recife - PE",
+    "horario_funcionamento": "Seg-Sex: 09:00 - 18:00"
+  },
+  {
+    "id": "2",
+    "nome": "Dr. José Santos",
+    "latitude": -8.057817,
+    "longitude": -34.919691,
+    "especialidade": "Terapia Familiar",
+    "endereco": "Rua do Príncipe, 456 - Santo Antônio, Recife - PE",
+    "horario_funcionamento": "Seg-Sex: 08:00 - 17:00"
+  },
+  {
+    "id": "3",
+    "nome": "Dra. Maria Fernandes",
+    "latitude": -8.059817,
+    "longitude": -34.989691,
+    "especialidade": "Stress e Burnout",
+    "endereco": "Av. Norte, 789 - Encruzilhada, Recife - PE",
+    "horario_funcionamento": "Seg-Sex: 10:00 - 19:00"
+  },
+  {
+    "id": "4",
+    "nome": "Dr. João Costa",
+    "latitude": -8.052870,
+    "longitude": -34.897637,
+    "especialidade": "Transtornos de Personalidade",
+    "endereco": "Rua da Aurora, 321 - Boa Vista, Recife - PE",
+    "horario_funcionamento": "Seg-Sex: 09:30 - 18:30"
+  },
+  {
+    "id": "5",
+    "nome": "Dra. Ana Lima",
+    "latitude": -8.126544,
+    "longitude": -34.901128,
+    "especialidade": "Dependência Química",
+    "endereco": "Av. Engenheiro Domingos Ferreira, 567 - Boa Viagem, Recife - PE",
+    "horario_funcionamento": "Seg-Sex: 08:30 - 17:30"
+  }
+]
